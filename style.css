@@ -25,6 +25,7 @@ h1{
     font-size: 3.5em;
     text-align: center;
     text-transform: uppercase;
+    padding-top: 15%;
     margin: 0;
     height: 30%;
     border-style: solid;
@@ -35,7 +36,7 @@ h1{
 
 #display-color{
     display: block;
-    font-size: 2em;
+    font-size: 1em;
 }
 
 #stripe{
@@ -70,8 +71,11 @@ h1{
     border-left-width: 0px;
     border-color: #c3e8ec;
     color: white;
-    font-size: 1.5em;
+    font-size: 4em;
     text-transform: uppercase;
+    text-align: center;
+    font-family: "Raleway", Sans-serif;
+    padding-top: 53%;
 	display: inline-block;
     
 }
@@ -90,10 +94,9 @@ h1{
 
 .box{
     width: 30%;
-    background-color: cyan;
     padding-bottom: 30%;
     float: left;
     margin: 1.6%;
-    transition: background .5s;
+    transition: background 1s;
 }
 
