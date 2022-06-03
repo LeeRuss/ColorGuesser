@@ -1,4 +1,3 @@
-var colors = [];
 var colorToGuess;
 
 var bodyBackgroundColor = getComputedStyle(document.body).backgroundColor;
